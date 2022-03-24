@@ -1,0 +1,1 @@
+Just run .exe file and find your backup in C:\elden_ring_backup
